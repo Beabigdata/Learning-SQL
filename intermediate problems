@@ -1,0 +1,10 @@
+## Intermediate SQL Problems
+
+This folder contains intermediate-level SQL problems and solutions from my data science study journey.
+
+Topics include:
+- JOINs
+- Aggregation with GROUP BY
+- Subqueries
+- Filtering with HAVING
+- Sorting and nested logic
